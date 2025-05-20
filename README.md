@@ -1,2 +1,2 @@
 # OctoFxRates
-Octo Foreign Exchange Rates Microservice
+Octo Foreign Exchange Rates micro service
